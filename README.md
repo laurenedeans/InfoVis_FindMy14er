@@ -4,7 +4,8 @@
 ### CSCI 4122 - Information Visualization 
 
 ### Final Project for Information Visualization
-#### Find My 14er
+
+## Find My 14er
 #### Includes:
 #### Dataset
 #### Initial Design Document
